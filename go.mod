@@ -56,4 +56,4 @@ require (
 
 replace go.etcd.io/bbolt => go.etcd.io/bbolt v1.3.5
 
-replace github.com/pingcap-incubator/tidb-dashboard => github.com/breeswish/tidb-dashboard v0.0.0-20201009032914-d84d67cfbc52
+replace github.com/pingcap-incubator/tidb-dashboard => github.com/154650362/tidb-dashboard v0.0.0-20201009032914-d84d67cfbc52

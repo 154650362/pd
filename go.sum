@@ -1,4 +1,6 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
+github.com/154650362/tidb-dashboard v0.0.0-20201009032914-d84d67cfbc52 h1:GnbiRm16n8nrbiEpEmWs7N8Pmoa27K62fxo9i1nkEec=
+github.com/154650362/tidb-dashboard v0.0.0-20201009032914-d84d67cfbc52/go.mod h1:d3QbDk9cnWDQXJXd8uHUEfYGpiHtR8R1+pRAGmKk51Q=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/KyleBanks/depth v1.2.1 h1:5h8fQADFrWtarTdtDudMmGsC7GPbOAu6RVB3ffsVFHc=
@@ -26,8 +28,6 @@ github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24
 github.com/beorn7/perks v1.0.0 h1:HWo1m869IqiPhD389kmkxeTalrjNbbJTC8LXupb+sl0=
 github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+CedLV8=
 github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kBD4zp0CCIs=
-github.com/breeswish/tidb-dashboard v0.0.0-20201009032914-d84d67cfbc52 h1:AbFkrEzUSBXQgT45kM77984RZR+YcoOfq9pEpUId3Dw=
-github.com/breeswish/tidb-dashboard v0.0.0-20201009032914-d84d67cfbc52/go.mod h1:d3QbDk9cnWDQXJXd8uHUEfYGpiHtR8R1+pRAGmKk51Q=
 github.com/cakturk/go-netstat v0.0.0-20200220111822-e5b49efee7a5 h1:BjkPE3785EwPhhyuFkbINB+2a1xATwk8SNDWnJiD41g=
 github.com/cakturk/go-netstat v0.0.0-20200220111822-e5b49efee7a5/go.mod h1:jtAfVaU/2cu1+wdSRPWE2c1N2qeAA3K4RH9pYgqwets=
 github.com/cenkalti/backoff/v4 v4.0.2 h1:JIufpQLbh4DkbQoii76ItQIUFzevQSqOLZca4eamEDs=
